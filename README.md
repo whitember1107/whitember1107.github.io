@@ -1,6 +1,6 @@
 # whitember1107.github.io
+
 ## personal account
-<br>
-[Slides](https://slides.com/whitember)
+<url>https://slides.com/whitember</url>
 
 [Twitter account](https://twitter.com/whitember_)
