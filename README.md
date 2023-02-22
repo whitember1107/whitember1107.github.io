@@ -3,4 +3,4 @@
 <br>
 [slides](https://slides.com/whitember/)
 
-[Twitter account](https://twitter.com/whtiember_/)
+[Twitter account](https://twitter.com/whitember_)
