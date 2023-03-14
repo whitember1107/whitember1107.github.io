@@ -1,0 +1,33 @@
+main{
+    color:#00b7ff;
+}
+a:link{
+    color:aquamarine;
+}
+a:visited{
+    color:bisque;
+}
+a:hover{
+    color:blue;
+}
+title{
+    color:rgb(0, 0, 255);
+}
+button:hover{
+    color: cadetblue;
+    background-color: darkorange;
+}
+button:active{
+    color:brown;
+    background-color: darkblue;
+}
+header{
+    color: chocolate;
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+}
+body{
+    background-image:url("https://pbs.twimg.com/media/FexnUKJUAAIpH0T?format=jpg&name=4096x4096");
+    background-repeat: no-repeat;
+}
