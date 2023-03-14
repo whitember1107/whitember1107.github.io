@@ -18,16 +18,21 @@ button:hover{
     background-color: darkorange;
 }
 button:active{
-    color:brown;
-    background-color: darkblue;
+    color:rgb(83, 141, 216);
+    background-color: rgb(126, 79, 200);
 }
 header{
-    color: chocolate;
+    color: rgb(0, 110, 255);
 }
 p{
-    font-family:'Times New Roman', Times, serif;
+    font-family:'Times New Roman';
 }
 body{
     background-image:url("https://pbs.twimg.com/media/FexnUKJUAAIpH0T?format=jpg&name=4096x4096");
     background-repeat: no-repeat;
 }
+@font-face {
+    font-family: 'Tiems New Roman';
+    src: local("Tiems New Roman"),
+      url('Tiems New Roman.ttf') format("opentype"),
+  }
